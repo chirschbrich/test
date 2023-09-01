@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/users7/cse/chirschbrich/CS2341/Inc/build",
+  "command": "/usr/local/es7/bin/g++ -g -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/Inc.dir/main.cpp.o -c /users7/cse/chirschbrich/CS2341/Inc/main.cpp",
+  "file": "/users7/cse/chirschbrich/CS2341/Inc/main.cpp"
+}
+]
