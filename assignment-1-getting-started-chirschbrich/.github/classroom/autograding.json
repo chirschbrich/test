@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Compile",
+      "setup": "cmake . -B build/",
+      "run": "cd build; make; ./main",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
